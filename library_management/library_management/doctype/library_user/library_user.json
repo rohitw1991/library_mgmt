@@ -1,0 +1,40 @@
+{
+ "autoname": "lib/.#####", 
+ "creation": "2014-05-29 00:52:37.035956", 
+ "docstatus": 0, 
+ "doctype": "DocType", 
+ "document_type": "Transaction", 
+ "fields": [
+  {
+   "fieldname": "librarian_name", 
+   "fieldtype": "Data", 
+   "in_list_view": 1, 
+   "label": "Librarian Name", 
+   "permlevel": 0
+  }, 
+  {
+   "fieldname": "education", 
+   "fieldtype": "Data", 
+   "in_list_view": 1, 
+   "label": "Education", 
+   "permlevel": 0
+  }
+ ], 
+ "modified": "2014-05-29 00:52:37.035956", 
+ "modified_by": "Administrator", 
+ "module": "Library Management", 
+ "name": "Library User", 
+ "name_case": "", 
+ "owner": "Administrator", 
+ "permissions": [
+  {
+   "create": 1, 
+   "permlevel": 0, 
+   "read": 1, 
+   "role": "Administrator", 
+   "write": 1
+  }
+ ], 
+ "sort_field": "modified", 
+ "sort_order": "DESC"
+}
